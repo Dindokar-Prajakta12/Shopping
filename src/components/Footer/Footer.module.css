@@ -85,7 +85,7 @@
     }
 }
 
-@media screen and (max-width :648px){
+@media screen and (max-width:648px){
     .cFooter{
         justify-content: center;
     }

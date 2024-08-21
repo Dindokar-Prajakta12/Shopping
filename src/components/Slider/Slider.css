@@ -45,7 +45,7 @@
     flex-direction: column;
 }
 
-.name>: :nth-child(1){
+.name>:nth-child(1){
     font-size: 1.4rem;
     font-weight: 600;
 }
